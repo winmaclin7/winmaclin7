@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="center">Sobre mi</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">Se de cosas como</h2>
 
 ###
 
